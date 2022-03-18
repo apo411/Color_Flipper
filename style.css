@@ -1,0 +1,23 @@
+body{
+   text-align: center;
+   font-family: cursive;
+}
+
+
+h2{
+    color: white;
+    border: 1px solid black;
+    background-color: gray;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.btn{
+    padding: 40px;
+    border-radius: 20px;
+    background-color: gray;
+    color: white;
+}
